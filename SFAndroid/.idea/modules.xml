@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BringSFdata/BringSFdata.iml" filepath="$PROJECT_DIR$/BringSFdata/BringSFdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFAndroid.iml" filepath="$PROJECT_DIR$/SFAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcedroid/libs/SalesforceSDK/SalesforceSDK.iml" filepath="$PROJECT_DIR$/forcedroid/libs/SalesforceSDK/SalesforceSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcedroid/forcedroid.iml" filepath="$PROJECT_DIR$/forcedroid/forcedroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forcedroid/libs/libs.iml" filepath="$PROJECT_DIR$/forcedroid/libs/libs.iml" />
+    </modules>
+  </component>
+</project>

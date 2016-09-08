@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/rootpredict">
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Spinner android:id="@+id/spinPredictors"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/start_prediction"
+            android:onClick="onFetchPredictorsClick" />
+
+    </LinearLayout>
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/savePrediction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/save_prediction"
+            android:onClick="savePredictions" />
+
+        <TextView
+            android:id="@+id/totalPoints"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:layout_marginRight="20dp"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout android:orientation="vertical"
+        android:id="@+id/predictionLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </LinearLayout>
+
+</LinearLayout>

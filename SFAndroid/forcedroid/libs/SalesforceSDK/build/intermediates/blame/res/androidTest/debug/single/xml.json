@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\servers.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\servers.xml",
+        "source": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\app_restrictions.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\xml\\app_restrictions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\app_restrictions.xml",
+        "source": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\xml\\app_restrictions.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\authenticator.xml",
+        "source": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\xml\\authenticator.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sf__icon.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-hdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sf__highlight_glare.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-hdpi-v4\\sf__highlight_glare.png"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sf__edit_icon.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-hdpi-v4\\sf__edit_icon.png"
+    }
+]

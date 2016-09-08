@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\contact_details.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\contact_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\newlist.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\newlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__custom_server_url.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__custom_server_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__login.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\registration_activity.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\registration_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__fingerprint_dialog.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__fingerprint_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\item_detail.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\item_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\edit_score_activity.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\edit_score_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__passcode.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__passcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__account_switcher.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__account_switcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\predictor_login_activity.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\predictor_login_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__server_picker_list.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__server_picker_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\account_list_view.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\account_list_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\sf__manage_space.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\layout\\sf__manage_space.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\layout\\prediction_activity.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\layout\\prediction_activity.xml"
+    }
+]

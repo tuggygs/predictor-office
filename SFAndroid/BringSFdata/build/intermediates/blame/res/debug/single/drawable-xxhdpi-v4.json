@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\sf__icon.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-xxhdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_fp_40px.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\drawable-xxhdpi-v4\\ic_fp_40px.png"
+    }
+]

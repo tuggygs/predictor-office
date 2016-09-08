@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sf__edit_icon.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sf__edit_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sf__edit_icon.png",
+        "source": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sf__edit_icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sf__icon.png",
+        "source": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sf__icon.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sf__icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sf__highlight_glare.png",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sf__highlight_glare.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\sf__highlight_glare.png",
+        "source": "D:\\AndroidStudioProjects\\SFAndroid\\forcedroid\\libs\\SalesforceSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\sf__highlight_glare.png"
+    }
+]

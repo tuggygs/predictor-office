@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\xml\\servers.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\xml\\servers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\xml\\app_restrictions.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\xml\\app_restrictions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\xml\\authenticator.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\menu\\sf__login.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\menu\\sf__login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\menu\\edit_scores.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\menu\\edit_scores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\menu\\display_contact.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\menu\\display_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\res\\merged\\debug\\menu\\sf__clear_custom_url.xml",
+        "source": "C:\\Users\\Turgay\\AndroidStudioProjects\\SFAndroid\\BringSFdata\\build\\intermediates\\exploded-aar\\SFAndroid.forcedroid.libs\\SalesforceSDK\\unspecified\\res\\menu\\sf__clear_custom_url.xml"
+    }
+]

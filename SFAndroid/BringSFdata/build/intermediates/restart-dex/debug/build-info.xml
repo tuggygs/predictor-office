@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="13978759469259"
+    token="-402142551226912704" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build timestamp="2581788810731" >
+        <artifact
+            location="C:\Users\Turgay\AndroidStudioProjects\SFAndroid\BringSFdata\build\outputs\apk\BringSFdata-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="7319111731788" >
+        <artifact
+            location="C:\Users\Turgay\AndroidStudioProjects\SFAndroid\BringSFdata\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="13971763372870" >
+        <artifact
+            location="C:\Users\Turgay\AndroidStudioProjects\SFAndroid\BringSFdata\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="13978759469259" />
+
+</instant-run>
